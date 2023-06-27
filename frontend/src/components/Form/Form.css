@@ -1,0 +1,35 @@
+.form{
+    display: flex;
+    justify-content: center;
+}
+
+.form-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+
+}
+
+.info-project{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.activity-name{
+    display: flex;
+    flex-direction: column;
+}
+
+.activity-date{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: space-between;
+}
